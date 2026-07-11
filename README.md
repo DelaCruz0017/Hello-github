@@ -1,2 +1,3 @@
 # Hello-github
-My first github project
+I am learning Github and 
+open-sourcr distribution.
